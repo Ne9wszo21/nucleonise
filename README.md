@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="120">
+<img src="" width="120">
 
 # **necleonize quickshell**
 
