@@ -1,4 +1,4 @@
-<div align="center">necleonize quickshell
+<div align="center">**necleonize quickshell**
 
 a clean, minimal, and customizable desktop shell built with quickshell and qml.
 
