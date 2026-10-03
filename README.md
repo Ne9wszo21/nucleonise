@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" width="120">
+
 # **necleonize quickshell**
 
 **a clean, minimal, and customizable desktop shell built with quickshell and qml.**
